@@ -1,6 +1,7 @@
 package collections;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class ctest1 {
     public static void main(String[] args) {
